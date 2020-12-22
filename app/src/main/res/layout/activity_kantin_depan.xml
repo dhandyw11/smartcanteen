@@ -25,6 +25,7 @@
         android:adjustViewBounds="false"
         android:clickable="true"
         android:src="@drawable/ic_baseline_shopping_cart_24"
+        android:elevation="35dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
