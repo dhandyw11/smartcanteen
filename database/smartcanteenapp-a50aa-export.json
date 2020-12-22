@@ -1,0 +1,45 @@
+{
+  "Kategori" : {
+    "01" : {
+      "Gambar" : "https://digiku.com/wp-content/uploads/lamang-tapai-padang.png",
+      "Nama" : "Masakan Padang"
+    },
+    "02" : {
+      "Gambar" : "https://cdn.idntimes.com/content-images/post/20180126/5-0c0a0857dec420a13e4fa674c0e3a00a.png",
+      "Nama" : "Masakan Sunda"
+    },
+    "03" : {
+      "Gambar" : "https://i2.wp.com/resepkoki.id/wp-content/uploads/2016/04/Resep-Pecel-ayam.jpg",
+      "Nama" : "Masakan Pecel"
+    },
+    "04" : {
+      "Gambar" : "https://cdn-brilio-net.akamaized.net/news/2020/06/02/185627/1239773-1000xauto-resep-soto-khas-dari-berbagai-daerah.jpg",
+      "Nama" : "Masakan Sup"
+    },
+    "05" : {
+      "Gambar" : "https://img-global.cpcdn.com/recipes/9750d17e1e0fb8bd/751x532cq70/sate-kerang-soto-semarangan-foto-resep-utama.jpg",
+      "Nama" : "Masakan Ikan Laut"
+    },
+    "06" : {
+      "Gambar" : "https://img-global.cpcdn.com/recipes/dbf8817c39084801/751x532cq70/mie-kuah-jamur-tiram-foto-resep-utama.jpg",
+      "Nama" : "Masakan Mie"
+    }
+  },
+  "User" : {
+    "081801234567" : {
+      "Name" : "Dhandy",
+      "Password" : "12345"
+	  "Email" : "dhandy@gmail.com"
+    },
+    "082101234567" : {
+      "Name" : "Emir",
+      "Password" : "12345"
+	  "Email" : "emir@gmail.com"
+    },
+    "088201234567" : {
+      "Name" : "Adam",
+      "Password" : "12345"
+	  "Email" : "adam@gmail.com"
+    }
+  }
+}

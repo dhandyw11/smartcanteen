@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="vertical"
+    android:background="@drawable/headerbackground"
+    android:gravity="bottom"
+    android:padding="20dp">
+
+    <ImageView
+        android:layout_width="262dp"
+        android:layout_height="125dp"
+        android:src="@drawable/logonama" />
+
+    <TextView
+        android:id="@+id/txtFullName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:text="Kizamu"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@color/blueblack"
+        android:textSize="20sp" />
+
+</LinearLayout>

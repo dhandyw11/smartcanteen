@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single" >
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/home" />
+        <item
+            android:id="@+id/nav_kadep"
+            android:title="Kantin Depan"
+            android:icon="@drawable/kantindepan" />
+        <item
+            android:id="@+id/nav_kabel"
+            android:title="Kantin Belakang"
+            android:icon="@drawable/kantinbelakang" />
+        <item
+            android:id="@+id/nav_order_status"
+            android:title="Order Status"
+            android:icon="@drawable/ic_baseline_task_alt_24" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout"
+            android:icon="@drawable/logout_icon" />
+    </group>
+
+</menu>

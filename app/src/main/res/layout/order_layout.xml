@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="8dp"
+    app:cardElevation="4dp"
+    tools:context=".OrderStatus">
+
+    <LinearLayout
+        android:id="@+id/order_for_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="9"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/order_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|start"
+                android:textAllCaps="true"
+                android:textStyle="bold"
+                android:text="#12345678"/>
+
+            <TextView
+                android:id="@+id/order_status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|start"
+                android:textAllCaps="true"
+                android:textStyle="bold"
+                android:text="Status"/>
+
+            <TextView
+                android:id="@+id/order_alamat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|start"
+                android:textAllCaps="true"
+                android:textStyle="bold"
+                android:text="Bungkus"/>
+
+            <TextView
+                android:id="@+id/order_nomor_hp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|start"
+                android:textAllCaps="true"
+                android:textStyle="bold"
+                android:text="081289288287"/>
+
+            <Button
+                android:id="@+id/order_scan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SCAN"
+                android:textColor="@color/white"
+                android:background="@drawable/button_bg"
+                android:backgroundTint="@color/grenery"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

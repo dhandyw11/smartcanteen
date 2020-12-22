@@ -1,0 +1,71 @@
+{
+  "Kategori": {
+    "01": {
+      "Nama": "Masakan Padang",
+      "Gambar": "https://digiku.com/wp-content/uploads/lamang-tapai-padang.png"
+    },
+    "02": {
+      "Nama": "Masakan Sunda",
+      "Gambar": "https://cdn.idntimes.com/content-images/post/20180126/5-0c0a0857dec420a13e4fa674c0e3a00a.png"
+    },
+    "03": {
+      "Nama": "Masakan Pecel",
+      "Gambar": "https://i2.wp.com/resepkoki.id/wp-content/uploads/2016/04/Resep-Pecel-ayam.jpg"
+    }
+  }
+  "Foods": {
+    "1": {
+      "Nama": "Rendang + Nasi",
+      "Gambar": "https://media.suara.com/pictures/653x366/2019/06/03/11856-rendang-daging.jpg",
+      "Deskripsi": "Rendang merupakan masakan yang terbuat dari olahan daging, dimasak dengan bumbu rempah yang berasal dari Minangkabau. Rendang menggunakan bumbu-bumbu alami karena dapat bersifat sebagai antiseptik dan dapat membunuh bakteri patogen sehingga dapat dijadikan sebagai bahan pengawet alami",
+      "Harga": "15000"
+    },
+    "2": {
+      "Nama": "Sate Padang + Nasi",
+      "Gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sate_Padang2.JPG/250px-Sate_Padang2.JPG",
+      "Deskripsi": "Sate Padang merupakan makanan khas Sumatera Barat yang biasanya memakai bahan dasar berupa daging sapi, lidah, atau jeroan.",
+      "Harga": "12000"
+    },
+    "3": {
+      "Nama": "Nasi Timbel",
+      "Gambar": "https://akcdn.detik.net.id/community/media/visual/2017/07/12/15cde20e-045d-43e3-ac77-ddbdaf633cb0.jpg?a=1",
+      "Deskripsi": "Nasi timbel merupakan perpaduan nasi pulen yang disajikan dengan bungkusan daun pisang, umumnya nasi timbel dibuat dari jenis beras Bagolo atau beras merah campuran.",
+      "Harga": "16000"
+    },
+    "4": {
+      "Nama": "Pais Ikan + Nasi",
+      "Gambar": "https://akcdn.detik.net.id/community/media/visual/2018/07/03/9d8a8505-0d54-44bd-beed-79027b814952.jpeg?a=1",
+      "Deskripsi": "Pais ikan atau biasa dikenal dengan nama pepes ikan ini terbuat dari bumbu-bumbu rempah yang dihaluskan lalu dibalut bersama ikan yang sudah dibersihkan serta diberikan tambahan daun kemangi, tomat dan cabai.",
+      "Harga": "14500"
+    },
+    "5": {
+      "Nama": "Pecel Ayam + Nasi",
+      "Gambar": "https://i2.wp.com/resepkoki.id/wp-content/uploads/2016/04/Resep-Pecel-ayam.jpg?fit=1259%2C1300&ssl=1",
+      "Deskripsi": "Pecel ayam dapat dengan mudah ditemukan di tenda-tenda pinggir jalan. Meski dijual di pinggir jalan, kuliner yang berasal dari Jawa ini memiliki rasa yang nikmat. Biasanya, akan disajikan juga lalapan berupa mentimun, kemangi, kol, serta sambal sebagai pelengkapnya.",
+      "Harga": "18000"
+    },
+    "6": {
+      "Nama": "Pecel Lele + Nasi",
+      "Gambar": "https://cdn.akurat.co/images/uploads/images/akurat_20200512072239_7737s1.jpg",
+      "Deskripsi": "Pecel lele biasanya merupakan makanan yang paling mudah ditemui. Makanan berat yang banyak dijajakan di pinggir jalan ini merupakan hidangan yang familiar bagi masyarakat Jawa dan disebut berasal dari Lamongan, Jawa Timur.",
+      "Harga": "16000"
+    }
+  }
+  "User" : {
+    "081801234567" : {
+      "Name" : "Dhandy",
+      "Password" : "12345"
+	  "Email" : "dhandy@gmail.com"
+    },
+    "082101234567" : {
+      "Name" : "Emir",
+      "Password" : "12345"
+	  "Email" : "emir@gmail.com"
+    },
+    "088201234567" : {
+      "Name" : "Adam",
+      "Password" : "12345"
+	  "Email" : "adam@gmail.com"
+    }
+  }
+}
